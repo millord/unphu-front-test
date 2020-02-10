@@ -3,7 +3,7 @@
 
 :smiley:
 
-###Instructions:
+### Instructions:
 
 1. Clone the repo
 2. cd into it and npm i
