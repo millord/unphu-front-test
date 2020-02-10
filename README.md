@@ -1,5 +1,5 @@
 # Test Repo
-## Build with create-react-app
+## Built with create-react-app
 
 :smiley:
 
